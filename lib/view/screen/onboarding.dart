@@ -27,7 +27,7 @@ class OnBoarding extends StatelessWidget {
                 decoration: const BoxDecoration(
                     color: Colors.white,
                     borderRadius:
-                        BorderRadius.only(topLeft: Radius.circular(60))),
+                        BorderRadius.only(topLeft: Radius.circular(80))),
                 child: const Column(
                   children: [
                     Expanded(
